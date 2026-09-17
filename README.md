@@ -157,3 +157,15 @@ on for them.
 The app is limited to 2 CPUs and 2 GiB of memory, which is Apache, PHP and
 cron together. Raise `limits` in `template.yaml` for many users, previews of
 large images, or apps like Nextcloud Office.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
